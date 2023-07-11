@@ -69,3 +69,13 @@ So, we can deploy XGBoost classifier.
 - [best_model.pkl](https://github.com/Ina612/Churn-predictions/blob/main/best_model.pkl) is the downloaded xgboost classifier
 
 See the [requirements](https://github.com/Ina612/Churn-predictions/blob/main/requirements.txt) for running the model.
+
+<h2> :sparkles: PowerBI Visualization </h2>
+
+<p> </p>
+This viz version contains scatter plot 'churn by age'. 
+
+The [dataset](https://github.com/Ina612/Churn-predictions/blob/main/Churn%20dataset.pbix) can be downloaded with additional filters ('parameters').
+<p> </p>
+
+![Churn dataset viz](https://github.com/Ina612/imgs/blob/main/Churn%20dataset%20viz.png)
